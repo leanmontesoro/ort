@@ -1,0 +1,17 @@
+H1 {
+    text-align: center; 
+    font-family: 'Germania One';
+    font-size: 250px;
+}
+
+H2 {
+    text-align: left
+}
+
+body {
+    background-color: #C0DDF6;
+}
+
+.imagen-tacc {
+    align: center
+}
