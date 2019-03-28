@@ -1,7 +1,7 @@
 H1 {
     text-align: center; 
     font-family: 'Germania One';
-    font-size: 250px;
+    font-size: 100px;
 }
 
 H2 {
@@ -9,9 +9,13 @@ H2 {
 }
 
 body {
-    background-color: #C0DDF6;
+    background-color: lightsalmon;
 }
 
-.imagen-tacc {
-    padding: 50px;
+.img-tacc {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    padding: 0,1px;
 }
