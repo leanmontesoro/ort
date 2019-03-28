@@ -53,7 +53,75 @@ a {
   width: 33.33%;
   padding: 5px;
 }
+H1 {
+    text-align: center;
+    font-family: 'Germania One';
+    font-size: 100px;
+    padding: 1px;
+    margin-bottom:0.1px;
+}
 
+H2 {
+    text-align: center;
+    font-family: 'Germania One';
+    font-size: 100px;
+    color:azure;
+}
+
+H3 {
+    text-align: left;
+    font-family: 'Germania One';
+    font-size: 40px;
+}
+
+body {
+    background-color: lightsalmon;
+}
+
+.img-tamaño {
+    width: 40%;
+    padding: 1px;
+}
+
+.img-title {
+    width: 15%;
+    padding: 1px;
+}
+
+
+
+.img-centrada {
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:1px;
+}
+
+.subtitle {
+        font-family: 'Baloo Chettan';
+        font-size:30px;
+        text-align:center;
+        
+}
+
+a {
+    color: lightyellow;
+    
+}
+
+.column {
+    float: left;
+    width: 15.33%;
+    padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
 /* Clearfix (clear floats) */
 .row::after {
   content: "";
